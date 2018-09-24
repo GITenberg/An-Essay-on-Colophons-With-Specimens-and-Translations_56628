@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3305'
     url: http://www.gutenberg.org/2009/agents/3305
     wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+covers:
+- cover_type: archival
+  image_path: 56628-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollard, Alfred W. (Alfred William)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7475
     wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56628#An-Essay-on-Colophons-With-Specimens-and-Translations
 gutenberg_issued: '2018-02-22'
 gutenberg_type: Text
 identifiers:
